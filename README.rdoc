@@ -1,0 +1,3 @@
+== eBay CSV Inventory Loader
+
+Updates/adds/deletes products on eBay account based upon CSV data. 
