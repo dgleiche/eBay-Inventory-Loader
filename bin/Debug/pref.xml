@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preferences>
+  <error>
+    <skip>true</skip>
+  </error>
+  <revise>
+    <revised>false</revised>
+    <revisei>false</revisei>
+  </revise>
+  <price>
+    <usemultiple>false</usemultiple>
+    <multiple>1</multiple>
+  </price>
+  <quantity>
+    <add>0</add>
+    <minus>0</minus>
+    <cap>5</cap>
+  </quantity>
+  <description>
+    <header></header>
+    <footer></footer>
+  </description>
+  <codes></codes>
+  <title>
+    <prefix></prefix>
+    <suffix></suffix>
+  </title>
+  <format>
+    <startprice>k</startprice>
+    <quantity>k</quantity>
+    <lbs>k</lbs>
+    <oz>k</oz>
+    <description>k</description>
+    <title>k</title>
+    <sku>k</sku>
+    <size>k</size>
+    <color>k</color>
+    <model>k</model>
+  </format>
+</preferences>

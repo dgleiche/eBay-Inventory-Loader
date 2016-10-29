@@ -1,0 +1,26 @@
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\CSV Inventory Bobby.exe.config
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.addimagefrm.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.alert.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.autoImage.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.customcode.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.Form1.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.images.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.pref.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.Properties.Resources.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV_Inventory_Bobby.signin.resources
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\CSV Inventory Bobby.exe
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\CSV Inventory Bobby.pdb
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\eBay.Service.dll
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\eBay.Service.SDK.Attribute.dll
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\Interop.MSXML2.dll
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\LumenWorks.Framework.IO.dll
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\Samples.Helper.dll
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\eBay.Service.xml
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\eBay.Service.SDK.Attribute.xml
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\LumenWorks.Framework.IO.xml
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\bin\Debug\Samples.Helper.xml
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV Inventory Bobby.exe
+C:\CSV Inventory Loader\BOBBY\CSV Inventory Bobby\CSV Inventory Bobby\obj\x86\Debug\CSV Inventory Bobby.pdb
