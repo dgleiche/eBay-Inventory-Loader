@@ -1,4 +1,4 @@
-﻿using eBay.Service.Call;
+using eBay.Service.Call;
 using eBay.Service.Core.Sdk;
 using eBay.Service.Core.Soap;
 using System;
@@ -42,12 +42,12 @@ namespace CSV_Inventory_Bobby
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.apiContext.RuName = "Elliesox-Elliesox-cd8b-4-iegjod";
+            this.apiContext.RuName = "CONFIDENTIAL";
             GetSessionIDCall call = new GetSessionIDCall(this.apiContext);
             call.ApiRequest = new GetSessionIDRequestType
             {
                 Version = "557",
-                RuName = "Elliesox-Elliesox-cd8b-4-iegjod"
+                RuName = "CONFIDENTIAL"
             };
             call.Execute();
             GetSessionIDResponseType response = new GetSessionIDResponseType();
@@ -55,7 +55,7 @@ namespace CSV_Inventory_Bobby
             string session = Uri.EscapeUriString(response.SessionID);
             this.sess = session;
             this.sesswo = response.SessionID;
-            string sUrl = "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&runame=Elliesox-Elliesox-cd8b-4-iegjod&sessid=" + this.sess;
+            string sUrl = "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&runame=CONFIDENTIAL&sessid=" + this.sess;
             ProcessStartInfo startInfo = new ProcessStartInfo("IExplore.exe", sUrl);
             Process.Start(startInfo);
             this.statusTxt.Text = "Ready";

@@ -1,4 +1,4 @@
-﻿using eBay.Service.Call;
+using eBay.Service.Call;
 using eBay.Service.Core.Sdk;
 using eBay.Service.Core.Soap;
 using eBay.Service.EPS;
@@ -46,7 +46,7 @@ namespace CSV_Inventory_Bobby
             eBayup.apiContext = new ApiContext();
             eBayup.apiContext.SoapApiServerUrl = ConfigurationManager.AppSettings["Environment.ApiServerUrl"];
             ApiCredential apiCredential = new ApiCredential();
-            ApiAccount account = new ApiAccount("8bdfa8ae-352b-4544-8759-561250d91ebd", "Elliesox-cd8b-4db7-bd2b-8e597a135cb0", "1427b219-7939-4e75-8dc0-f96e3c7ed27e");
+            ApiAccount account = new ApiAccount("TOKEN INFO");
             apiCredential.ApiAccount = account;
             eBayup.apiContext.ApiCredential = apiCredential;
             eBayup.apiContext.Site = eBayup.country;
